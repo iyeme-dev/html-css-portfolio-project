@@ -1,2 +1,1 @@
-# html-css-portfolio-project
-My first portfolio project
+My name is Iyeme Salubi, I am currently training to become a web developer.
